@@ -3,3 +3,10 @@
 {"level":"error","message":"Hola, esto es un error","service":"user-service"}
 {"level":"error","message":"Hola, esto es un error","service":"user-service"}
 {"level":"error","message":"Hola, esto es un error","service":"user-service"}
+{"level":"error","message":"Hola, esto es un error","service":"user-service"}
+{"level":"error","message":"Hola, esto es un error","service":"user-service"}
+{"level":"error","message":"Hola, esto es un error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","message":"Hola, esto es un error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","message":"El valor introducido es incorrecto","service":"user-service"}
